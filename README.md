@@ -9,4 +9,3 @@ Due to the necessary need for having a remote monitor or hack licensed software 
 
 Though you can trust that Microsoft and Google have their greedy hands on the photo manipulation racketering market with Adobe, meaning they'll be able to uncover what it actually says through "Machine (spying") learning" algorithms at least you know the internet powers that are automated won't be able to understand. Feel free to adjust sizings like so.
 
-![image](https://github.com/777388/NDK-Encryption/assets/96343159/b9d12353-a9fd-4695-a13f-61ae0f8da13e)
